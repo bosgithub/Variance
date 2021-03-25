@@ -1,6 +1,6 @@
 # Variance
 
-Given a list, return the variance of the list
+### here we solve for the variance when given a list:
 
 including both population variance and sample variance
 
