@@ -1,8 +1,8 @@
 # Variance
 
-### here we solve for the variance when given a list:
+### here we solve for the variance of a list:
 
-including both population variance and sample variance
+both population variance and sample variance
 
 formula of variance:
 
