@@ -4,6 +4,7 @@
 
 population variance and sample variance
 
+
 formula of variance:
 
 ![alt text](https://www.onlinemathlearning.com/image-files/population-variance.png)
