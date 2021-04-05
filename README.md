@@ -2,7 +2,7 @@
 
 ### here we solve for the variance of a list:
 
-population variance and sample variance
+#### population variance and sample variance
 
 
 formula of variance:
